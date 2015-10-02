@@ -212,7 +212,7 @@ Examples
 
     ## End(Not run)
 
-    ### First attempt using ggplot2; temporarily abandonned.
+    ### First attempt using ggplot2; temporarily abandoned.
     ## Not run: 
     require(maps)
     require(ggplot2)
